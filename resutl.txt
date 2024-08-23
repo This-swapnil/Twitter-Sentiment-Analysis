@@ -1,0 +1,24 @@
+Logistic Regression
+
+training_accuracy of Logistic Regression : 0.81018984375
+testing_accuracy of Logistic Regression : 0.7780375
+
+Logistic Regression Model Evaluation
+{'Accuracy': 0.7780375,
+ 'Preciosion': 0.7678556375766188,
+ 'Recall': 0.79704375,
+ 'Specificity': 0.75903125,
+ 'f1_score': 0.7821774890978344}
+
+
+MNB
+
+training_accuracy of Logistic Regression : 0.8200265625
+training_accuracy of Logistic Regression : 0.755815625
+
+MNB Model Evaluation
+{'Accuracy': 0.755815625,
+ 'Preciosion': 0.7706560336447856,
+ 'Recall': 0.7284,
+ 'Specificity': 0.78323125,
+ 'f1_score': 0.7489324512333442}

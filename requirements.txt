@@ -1,0 +1,11 @@
+Flask 
+Flask-Cors
+notebook 
+numpy 
+pandas
+scikit-learn 
+scipy 
+seaborn
+statsmodels
+gunicorn
+kaggle
